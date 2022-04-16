@@ -1,1 +1,2 @@
 iniciando  do trabalho na funcionalidade do login
+ validação de email
